@@ -16,7 +16,7 @@
 
 根据采集路径的不同，共分为以下三个数据包：
 
-1. **`library.bag`**: 环绕东南大学**孟芳图书馆**（闭环）。
+1. **`library.bag`**: 环绕东南大学**图书馆**（闭环）。
 
 2. **`water.bag`**: 环绕**涌泉池（喷泉）**及**中大院**（闭环）。
 
@@ -48,7 +48,7 @@ All data were collected at the **Sipailou Campus, Southeast University**. 🌟 *
 
 The dataset is divided into three `.bag` files based on their trajectories:
 
-1. **`library.bag`**: Around the **Mengfang Library** (Closed-loop).
+1. **`library.bag`**: Around the **Library** (Closed-loop).
 
 2. **`water.bag`**: Around the **Fountain (Yongquan Pool)** and **Zhongda Hall** (Closed-loop).
 
